@@ -9,3 +9,4 @@ itemList = ["Milk", "Apple", "Orange", "Rise", "Banana"]
 
 for item in itemList:
 	print(item)
+
